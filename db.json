@@ -1,0 +1,29 @@
+{
+  "users-array": [
+    {
+      "id": 1,
+      "name": "Duc",
+      "guests": "di cung vo",
+      "accept": true
+    },
+    {
+      "id": 2,
+      "name": "Trang",
+      "guests": "di cung vo",
+      "accept": true
+    },
+    {
+      "name": "DUNG",
+      "exampleRequired": "cds",
+      "accepted": "yes",
+      "guests": "DI CUNG VO",
+      "id": 3
+    },
+    {
+      "name": "test",
+      "guests": "DFDS",
+      "accepted": "no",
+      "id": 4
+    }
+  ]
+}
